@@ -7,7 +7,7 @@ This course aims to provide a solid foundation for the analysis of geophysical f
 A key skill to be developed in this course is a physical understanding of fluid flows. Students will study and perform numerical experiments of simplified geophysical systems in order to see beyond the mathematical formalism and gain a robust understanding of the sometimes counter-intuitive behaviour of geophysical flows.
 
 Currently this repostiory contains ipython notebook for a set of computer labs that will be held throughout the course. The labs can be completed online from any browser window using Google Colaboratory (Colab) or locally by installing the necessary libraries in a `conda` environment (see below for instructions).
-These labs were first written by [Dr Shane Keating](https://www.unsw.edu.au/staff/shane-keating) with some later edits by [Dr Jan Zika](https://www.unsw.edu.au/staff/jan-zika) and [Josef Bisits](https://jbisits.github.io).
+These labs were first written by [Dr Shane Keating](https://www.unsw.edu.au/staff/shane-keating) with some later edits by Drs [Jan Zika](https://www.unsw.edu.au/staff/jan-zika) and [Josef Bisits](https://jbisits.github.io).
 
 ## Opening the notebooks using Google Colab (Recommended - no experience needed)
 
