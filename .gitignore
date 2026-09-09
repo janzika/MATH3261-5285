@@ -163,3 +163,7 @@ cython_debug/
 
 *.png
 *.mp4
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.DS_store

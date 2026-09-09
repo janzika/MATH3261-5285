@@ -1,0 +1,17 @@
+[workspace]
+authors = ["jbisits <jbisits@gmail.com>"]
+channels = ["conda-forge"]
+name = "MATH3261-5285"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pixi-kernel = ">=0.7.1,<0.8"
+jupyterlab = ">=4.6.3,<5"
+python = "3.10.*"
+dedalus = ">=3.0.5,<4"
+numpy = ">=2.2.6,<3"
+pandas = ">=2.3.3,<3"
+matplotlib = ">=3.10.9,<4"
