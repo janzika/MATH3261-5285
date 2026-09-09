@@ -167,3 +167,6 @@ cython_debug/
 .pixi/*
 !.pixi/config.toml
 .DS_store
+
+*.h5
+*.gif
