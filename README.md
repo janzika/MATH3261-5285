@@ -9,7 +9,7 @@ A key skill to be developed in this course is a physical understanding of fluid 
 Currently this repostiory contains ipython notebook for a set of computer labs that will be held throughout the course. The labs can be completed online from any browser window using Google Colaboratory (Colab) or locally by installing the necessary libraries in a `conda` environment (see below for instructions).
 These labs were first written by [Dr Shane Keating](https://www.unsw.edu.au/staff/shane-keating) with some later edits by Drs [Jan Zika](https://www.unsw.edu.au/staff/jan-zika) and [Josef Bisits](https://jbisits.github.io).
 
-## Opening the notebooks using Google Colab (secommended - no experience needed)
+## Opening the notebooks using Google Colab (recommended - no experience needed)
 
 Open one of the notebooks (`.ipynb` files above) and click on the colab button <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> at the top.
 After that save a copy to your google drive so you can edit and access later on and you should be good to go!
