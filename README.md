@@ -14,6 +14,9 @@ These labs were first written by [Dr Shane Keating](https://www.unsw.edu.au/staf
 Open one of the notebooks (`.ipynb` files above) and click on the colab button <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> at the top.
 After that save a copy to your google drive so you can edit and access later on and you should be good to go!
 
+**NOTE:** there have been some issues with getting the `.mp4` animations to play within google colab.
+If a `.mp4` does not load into a colab notebook, it can be downloaded and played on your local machine.
+
 ## Local installation and usage in JupyterLab or VS Code (some knowledge of computing environments with python package management is needed)
 
 We use a python package manager called [pixi](https://pixi.prefix.dev/latest/) to ensure reproducability.
