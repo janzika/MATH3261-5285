@@ -6,7 +6,8 @@ This course aims to provide a solid foundation for the analysis of geophysical f
 
 A key skill to be developed in this course is a physical understanding of fluid flows. Students will study and perform numerical experiments of simplified geophysical systems in order to see beyond the mathematical formalism and gain a robust understanding of the sometimes counter-intuitive behaviour of geophysical flows.
 
-Currently this repostiory contains ipython notebook for a set of computer labs that will be held throughout the course. The labs can be completed online from any browser window using Google Colaboratory (Colab) or locally by installing the necessary libraries in a `conda` environment (see below for instructions).
+Currently this repostiory contains ipython notebook for a set of computer labs that will be held throughout the course.
+The labs can be completed online from any browser window using Google Colaboratory (Colab) or locally by installing the necessary libraries in a [`pixi`](https://pixi.prefix.dev/latest/) environment; see below for instructions.
 These labs were first written by [Dr Shane Keating](https://www.unsw.edu.au/staff/shane-keating) with some later edits by Drs [Jan Zika](https://www.unsw.edu.au/staff/jan-zika) and [Josef Bisits](https://jbisits.github.io).
 
 ## Opening the notebooks using Google Colab (recommended - no experience needed)
@@ -17,7 +18,7 @@ After that save a copy to your google drive so you can edit and access later on 
 **NOTE:** there have been some issues with getting the `.mp4` animations to play within google colab.
 If a `.mp4` does not load into a colab notebook, it can be downloaded and played on your local machine.
 
-## Local installation and usage in JupyterLab or VS Code (some knowledge of computing environments with python package management is needed)
+## Local installation and usage in JupyterLab (some knowledge of computing environments with python package management is needed)
 
 We use a python package manager called [pixi](https://pixi.prefix.dev/latest/) to ensure reproducability.
 
@@ -43,6 +44,7 @@ pixi run jupyter-lab
 ```
 
 and select the Python (pixi) or Python (ipykernel) kernel for running the notebooks.
+
 **NOTE:** there is a a jupyter-lab installation specific for these notebooks inside the pixi environmet so make sure to use `pixi run jupyter-lab` within the directory you have cloned the repository into.
-Microsoft's [vs-code](https://code.visualstudio.com/) with the [jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) should be able to be used; just make sure you have selected the correct kernel.
+Microsoft's [vs-code](https://code.visualstudio.com/) with the [jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) should be able to be used; just make sure you have selected the correct ipython kernel with which to run the notebooks.
 
