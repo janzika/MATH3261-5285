@@ -18,7 +18,10 @@ After that save a copy to your google drive so you can edit and access later on 
 **NOTE:** there have been some issues with getting the `.mp4` animations to play within google colab.
 If a `.mp4` does not load into a colab notebook, it can be downloaded and played on your local machine.
 
-## Local installation and usage in JupyterLab (some knowledge of computing environments with python package management is needed)
+## Local installation and usage in JupyterLab on linux or MacOS (some knowledge of computing environments with python package management is needed)
+
+Unfortunately [dedalus 3 is not available on windows](https://dedalus-project.readthedocs.io/en/latest/pages/installation.html#full-stack-conda-installation-recommended).
+If you are on a windows laptop you will have to access these labs through google colab.
 
 We use a python package manager called [pixi](https://pixi.prefix.dev/latest/) to ensure reproducability.
 
